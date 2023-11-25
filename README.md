@@ -1,8 +1,9 @@
 # link
-antivirus rtf.lnk ------------------------------ BETA v. 01----------------------------
+antivirus rtf.lnk <p>------------------------------ BETA v. 01----------------------------</p>
 
 
 
 link.exe - для windows
-November 25, 2023 13:20
+<p>
+</p>
 link.py - для Linux
